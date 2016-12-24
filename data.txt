@@ -1,0 +1,77 @@
+//// bio ////
+{
+  "name": "Márcio José Gurka Júnior",
+  "role": "Front-End and Mobile Developer",
+  "contacts": {
+    "mobile":"+55999824591",
+    "email":"marciogurkajr@gmail.com",
+    "github":"https://github.com/marciogurka",
+    "twitter":"@marciogurka",
+    "location":"Ponta Grossa, Paraná, Brazil"
+  },
+  "welcomeMessage":"Welcome to my portifolio",
+  "skills": [
+    "JavaScript", 
+    "CSS", 
+    "AngularJS 1",
+    "Ionic 2",
+    "NodeJS",
+    "Oracle",
+    "PHP",
+    "Material Design"
+  ],
+  "biopic": "https://avatars0.githubusercontent.com/u/16693227?v=3&s=460",
+  "display": ""
+}
+
+//// schools ////
+{
+	"schools": [
+		{
+			"name": "Sant'Ana College and Faculty",
+			"location": "Ponta Grossa, Paraná, Brazil",
+			"degree": "Computer Science Technician",
+			"majors": [],
+			"dates": "31/12/2011",
+			"url": ""
+		},
+		{
+			"name": "Ponta Grossa State University",
+			"location": "Ponta Grossa, Paraná, Brazil",
+			"degree": "Bachelor's degree in Computer Engineering",
+			"majors": [],
+			"dates": "31/12/2016",
+			"url": ""
+		}
+	],
+	"onlineCourses": [
+		{
+			"title": "Front-End Nanodegree",
+			"school": "Udacity",
+			"dates": "31/12/2016",
+			"url": ""
+		}
+	],
+	"display": ""
+}
+
+//// work ////
+{
+	"jobs": [
+		{
+			"employer": "Ponta Grossa State University",
+			"title": "Web Developer Intern",
+			"location": "Ponta Grossa, Paraná, Brazil",
+			"dates": "31/12/2014",
+			"description": "Web Development of the academic systems"
+		},
+		{
+			"employer": "DF Systems",
+			"title": "Web Developer Intern",
+			"location": "Ponta Grossa, Paraná, Brazil",
+			"dates": "31/10/2016",
+			"description": "Innovation and web development"
+		}
+	],
+	"display": ""
+}
