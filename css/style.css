@@ -26,9 +26,14 @@ h6 {
 
 h1 {
   font-size: 40px;
-  color: #f5a623;
+  color: #1199c3;
   line-height: 48px;
   display: inline;
+}
+
+.header {
+  color: #1199c3;
+  font-style: italic;
 }
 
 h2 {
@@ -100,12 +105,12 @@ a {
 }
 
 #skills-h3 {
-  color: #f5ae23;
+  color: #1199c3;
   display: none;
 }
 
-.orange {
-  background-color: #f5ae23;
+.blue {
+  background-color: #1199c3;
 }
 
 .orange-text {
@@ -218,4 +223,12 @@ span {
   .biopic {
     display: block;
   }
+}
+
+.blue-text {
+  color: #1199c3;
+}
+
+.white-text {
+  color: #fff;
 }
